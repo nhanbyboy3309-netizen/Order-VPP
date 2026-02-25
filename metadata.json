@@ -1,0 +1,5 @@
+{
+  "name": "VPP Order - Hệ thống đặt Văn phòng phẩm",
+  "description": "Hệ thống quản lý và đặt văn phòng phẩm nội bộ theo kỳ, quản lý định mức và thời gian đặt hàng.",
+  "requestFramePermissions": []
+}
